@@ -36,4 +36,4 @@ The game follows a scene-based state machine (`menu` → `game` → `gameover`) 
 
 ## Git Workflow
 
-All changes are committed with descriptive messages and pushed to GitHub (origin: `charlswartsf2/Claude-test`).
+**After every set of changes, you must commit and push to GitHub.** Use clean, descriptive commit messages so we never lose work. This applies to all modifications — features, bug fixes, config changes, etc. Always push to origin (`charlswartsf2/Claude-test`) on the `master` branch so there is a saved version of every change.
